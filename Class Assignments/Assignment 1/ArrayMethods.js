@@ -20,8 +20,7 @@ let emp = {
 }  
   
 console.log(delete emp.salary);  
-console.log(emp);
-
+console.log("")
 // 5) Array concat() Method
 let arr1 = [11, 12, 13]; 
 let arr2 = [14, 15, 16]; 
